@@ -1,0 +1,36 @@
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.exe
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.deps.json
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.runtimeconfig.json
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.CopyComplete
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\refint\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\ref\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.exe
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.deps.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.runtimeconfig.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\yuhim_bot.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.csproj.CopyComplete
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\refint\yuhim_bot.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\yuhim_bot.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\yuhim_bot\yuhim_bot\obj\Debug\net6.0\ref\yuhim_bot.dll
